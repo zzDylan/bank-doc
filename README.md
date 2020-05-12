@@ -14,6 +14,7 @@
 | total\_fee | int | Y | 金额。单位：分 |
 | out\_trade\_no | string | Y | 用户端自主生成的订单号 |
 | notify\_url | string | Y | 异步通知url |
+| return\_url | string | N | 支付完毕之后跳转到的商家网址 |
 
 
 
