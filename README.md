@@ -2,7 +2,7 @@
 
 
 
-{% embed url="http://xxx.com/bank\_cashier?mchid=商户号&total\_fee=金额&out\_trade\_no=订单号&notify\_url=异步通知url。" %}
+请求地址：[http://xxx.com/bank\_cashier?mchid=商户号&total\_fee=金额&out\_trade\_no=订单号&notify\_url=异步通知url](http://xxx.com/bank_cashier?mchid=商户号&total_fee=金额&out_trade_no=订单号&notify_url=异步通知url)
 
 同步请求
 
